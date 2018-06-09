@@ -1,0 +1,20 @@
+C:\ProgramData\Anaconda3\Scripts
+
+pip install -U spacy
+pip install -U ntlk
+pip install -U matplotlib
+pip install -U opencv-python
+pip install -U tesorflow
+pip install -U sklearn
+pip install -U pandas
+sudo pip install django-request
+
+export PATH=~/anaconda2/bin:$PATH
+conda install -c auto pytesseract
+conda install -c auto pillow
+
+
+conda update -n base conda
+
+conda install -c anaconda git
+
